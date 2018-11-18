@@ -1,1 +1,1 @@
-module github.com/kenord/egret-cron
+module github.com/kenorld/egret-cron
